@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
- "main":"./src/App.jsx",
+ "main":"./src/main.jsx",
   "dependencies": {
     "array-union": "^1.0.2",
     "array-uniq": "^1.0.3",
